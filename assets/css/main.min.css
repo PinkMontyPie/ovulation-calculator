@@ -3544,6 +3544,13 @@ html[dir="rtl"]
     th:first-child {
     border-radius: 0;
   }
+
+  .result-table.table_top th {
+    border-color: #CEF9F2;
+    padding: 1rem;
+    white-space: pre-wrap;
+  }
+
 }
 .result-table__wrapper:last-child
   table
